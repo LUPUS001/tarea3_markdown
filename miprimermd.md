@@ -12,10 +12,10 @@ hola("Mundo");
 ```
 
 ### Lista ordenada
-1.Primero
-2.Segundo 
-3.Tercero
-4.Cuarto
+1. Primero
+2. Segundo 
+3. Tercero
+4. Cuarto
 
 ### Lista desordenada
 - Valencia
